@@ -1,9 +1,7 @@
+import { isABottle } from './bottle'
 import SolutionSearch from './solutionSearch'
 
-const isArrayOfBottles = (data: any) =>
-  Array.isArray(data) &&
-  data.every(el => typeof el === 'string') &&
-  data.length < 4
+const isArrayOfBottles = (data: any) => data.every((el: any) => isABottle(el))
 
 onmessage = function ({ data }: MessageEvent<string>) {
   console.log('hello from worker')

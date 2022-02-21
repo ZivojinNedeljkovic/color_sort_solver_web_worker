@@ -50,3 +50,8 @@ export const areEqualBottles = (bottle1: Bottle, bottle2: Bottle) => {
 
   return true
 }
+
+export const isABottle = (data: any) =>
+  Array.isArray(data) &&
+  data.every(el => typeof el === 'string') &&
+  data.length < 4
