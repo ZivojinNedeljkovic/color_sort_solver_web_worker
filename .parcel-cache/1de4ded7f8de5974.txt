@@ -1,4 +1,28 @@
-12392
+12393
+72C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\testing132870126312902376 1
+112C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\es-abstract\2018\IsStringPrefix.js132869931503437906 0
+90C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\miller-rabin132869931409676057 1
+99C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\statuses\package.json132869931368809851 0
+98C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\type-fest\index.d.ts132869931423417061 0
+113C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\@babel\core\src\transformation\util132869931470060125 1
+88C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\buffer-xor132869931411822338 1
+112C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\core-js\modules\esnext.map.some.js132869931516239567 0
+96C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\yaml\browser\types132869931437754259 1
+96C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\fastq\test\test.js132869931402607062 0
+82C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\package-lock.json132869931557490435 0
+99C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\node-gyp-build\bin.js132869931381546595 0
+110C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\querystring\test\common-index.js132869931419533101 0
+77C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\package.json132873085398238677 0
+121C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\es-abstract\2020\CreateListFromArrayLike.js132869931478961147 0
+98C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\timsort\package.json132869931369531407 0
+107C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\es-abstract\2016\SameValue.js132869931518538074 0
+130C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\caniuse-lite\data\features\page-transition-events.js132869931517880677 0
+134C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\stream-browserify\node_modules\readable-stream\errors.js132869931420520464 0
+126C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\caniuse-lite\data\features\css-cascade-layers.js132869931477144568 0
+75C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\.gitignore132886181005754147 0
+94C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\des.js\.jshintrc132869931381257375 0
+118C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\core-js\proposals\object-from-entries.js132869931533397980 0
+128C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\dom-serializer\node_modules\entities\lib\decode.js132869931395683557 0
 102C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\terser\tools\terser.d.ts132869931470633946 0
 118C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\core-js\stable\instance\code-point-at.js132869931480041725 0
 99C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\object.assign\shim.js132869931422006487 0
@@ -54,7 +78,7 @@
 109C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\highlight.js\styles\dracula.css132869931434987498 0
 109C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\elliptic\node_modules\bn.js\lib132869931382814288 1
 128C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\caniuse-lite\data\features\alternate-stylesheet.js132869931430049996 0
-69C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\dist132886122334551085 1
+69C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\dist132886271448023517 1
 111C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\es-abstract\2017\IsConstructor.js132869931497446879 0
 107C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\svgo\plugins\removeViewBox.js132869931448193664 0
 116C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\@parcel\transformer-babel\lib\types.js132869931422831111 0
@@ -75,21 +99,6 @@
 75C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\index.html132873084547591320 0
 101C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\fast-url-parser\LICENSE132869931397016611 0
 97C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\wrap-ansi\readme.md132869931397681144 0
-72C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\testing132870126312902376 1
-112C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\es-abstract\2018\IsStringPrefix.js132869931503437906 0
-90C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\miller-rabin132869931409676057 1
-99C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\statuses\package.json132869931368809851 0
-98C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\type-fest\index.d.ts132869931423417061 0
-113C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\@babel\core\src\transformation\util132869931470060125 1
-88C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\buffer-xor132869931411822338 1
-112C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\core-js\modules\esnext.map.some.js132869931516239567 0
-96C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\yaml\browser\types132869931437754259 1
-96C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\fastq\test\test.js132869931402607062 0
-82C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\package-lock.json132869931557490435 0
-99C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\node-gyp-build\bin.js132869931381546595 0
-110C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\querystring\test\common-index.js132869931419533101 0
-77C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\package.json132873085398238677 0
-121C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\es-abstract\2020\CreateListFromArrayLike.js132869931478961147 0
 106C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\which-boxed-primitive\.nycrc132869931396860394 0
 111C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\highlight.js\lib\languages\css.js132869931477074762 0
 108C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\es-abstract\helpers\forEach.js132869931482928825 0
@@ -122,7 +131,7 @@
 99C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\minimist\test\bool.js132869931395211569 0
 110C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\core-js\actual\date\to-string.js132869931549625613 0
 104C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\ws\lib\websocket-server.js132869931421597584 0
-78C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\src\bottle.ts132886052827876754 0
+78C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\src\bottle.ts132886271228901066 0
 116C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\core-js\features\array\virtual\sort.js132869931545763572 0
 94C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\has\src\index.js132869931397722526 0
 113C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\split2\node_modules\readable-stream132869931430190244 1
@@ -166,7 +175,7 @@
 92C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\path-to-regexp132869931402327777 1
 113C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\postcss-minify-params\dist\index.js132869931383707210 0
 107C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\terser\lib\compress\common.js132869931429954775 0
-86C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\src\solutionSearch.ts132886122167267590 0
+86C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\src\solutionSearch.ts132886179683235475 0
 119C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\core-js\internals\object-keys-internal.js132869931538981687 0
 110C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\postcss-value-parser\lib\walk.js132869931403694128 0
 128C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\core-js\modules\esnext.reflect.get-own-metadata.js132869931517701154 0
@@ -184,7 +193,7 @@
 84C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\parcel132869931412561644 1
 115C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\highlight.js\styles\androidstudio.css132869931402636949 0
 107C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\core-js\actual\reflect\has.js132869931523892629 0
-76C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\src\step.ts132886059575239537 0
+76C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\src\step.ts132886271127530060 0
 105C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\postcss-reduce-initial\dist132869931381217480 1
 104C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\alphanum-sort\lib\index.js132869931400155808 0
 96C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\mimic-fn\readme.md132869931399348452 0
@@ -422,8 +431,6 @@
 112C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\@nodelib\fs.walk\out\settings.d.ts132869931429295517 0
 98C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\node-forge\README.md132869931472731550 0
 98C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\builtin-status-codes132869931401719408 1
-95C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\is-string\.github132869931417478593 1
-96C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\chrome-trace-event132869931406354398 1
 119C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\svgo\plugins\addAttributesToSVGElement.js132869931412561644 0
 117C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\@parcel\transformer-babel\src\babel7.js132869931401898942 0
 100C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\cssnano-preset-default132869931397878742 1
@@ -447,6 +454,8 @@
 113C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\string.prototype.trimstart\index.js132869931415750909 0
 87C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\callsites132869931399174734 1
 104C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\is-nan\.github\FUNDING.yml132869931422514904 0
+95C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\is-string\.github132869931417478593 1
+96C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\chrome-trace-event132869931406354398 1
 99C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\object-keys\README.md132869931417558394 0
 99C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\yaml\browser\types.js132869931439795798 0
 98C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\reusify\package.json132869931368899609 0
@@ -2655,10 +2664,6 @@
 127C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\readable-stream\node_modules\safe-buffer\index.js132869931395211569 0
 109C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\@parcel\plugin\lib\PluginAPI.js132869931392409912 0
 94C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\timsort\index.js132869931397212508 0
-98C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\timsort\package.json132869931369531407 0
-107C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\es-abstract\2016\SameValue.js132869931518538074 0
-130C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\caniuse-lite\data\features\page-transition-events.js132869931517880677 0
-134C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\stream-browserify\node_modules\readable-stream\errors.js132869931420520464 0
 125C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\abortcontroller-polyfill\src\abortcontroller.js132869931405905350 0
 95C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\timsort\README.md132869931394703565 0
 104C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\core-js\features\escape.js132869931514237108 0
@@ -3048,7 +3053,7 @@
 115C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\stream-browserify\.github\FUNDING.yml132869931420091624 0
 113C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\core-js\internals\ie8-dom-define.js132869931523982395 0
 137C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_drop.1132869931429365358 0
-79C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\dist\worker.js132886122334511187 0
+79C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\dist\worker.js132886271447983625 0
 104C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\stylehacks\dist\dictionary132869931428620273 1
 102C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\stylehacks\dist\index.js132869931417818048 0
 113C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\css-tree\lib\syntax\node\AnPlusB.js132869931398563032 0
@@ -3165,9 +3170,9 @@
 90C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\ms\readme.md132869931397212508 0
 118C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\es-abstract\2021\IsAccessorDescriptor.js132869931496069899 0
 98C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\string-width\license132869931373235680 0
+157C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\stream-http\node_modules\readable-stream\lib\internal\streams\async_iterator.js132869931415940420 0
 102C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\@babel\core\package.json132869931444328317 0
 100C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\string-width\readme.md132869931397700687 0
-157C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\stream-http\node_modules\readable-stream\lib\internal\streams\async_iterator.js132869931415940420 0
 122C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\@swc\helpers\lib\_class_private_field_set.js132869931423150269 0
 108C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\core-js\features\date\index.js132869931526202466 0
 97C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\string-hash\test.js132869931399348452 0
@@ -5725,7 +5730,6 @@
 97C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\json5\dist\index.js132869931395885967 0
 101C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\json5\dist\index.min.js132869931402277910 0
 98C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\json5\dist\index.mjs132869931426347585 0
-117C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\finalhandler\node_modules\ms\license.md132869931395055354 0
 119C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\connect\node_modules\debug\component.json132869931417518490 0
 105C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\json-source-map\.travis.yml132869931395055354 0
 112C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\highlight.js\lib\languages\http.js132869931479405675 0
@@ -6801,6 +6805,7 @@
 98C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\finalhandler\LICENSE132869931397212508 0
 120C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\css-select\lib\pseudo-selectors\aliases.js132869931392409912 0
 100C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\finalhandler\README.md132869931399999597 0
+117C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\finalhandler\node_modules\ms\license.md132869931395055354 0
 119C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\finalhandler\node_modules\ms\package.json132869931379013374 0
 123C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\core-js\internals\dom-token-list-prototype.js132869931492068086 0
 90C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\astring\dist132869931420680038 1
@@ -8288,10 +8293,6 @@
 120C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\core-js\modules\esnext.weak-map.emplace.js132869931518737546 0
 102C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\astring\dist\astring.mjs132869931421856898 0
 134C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\dom-serializer\node_modules\entities\lib\decode.d.ts.map132869931420031770 0
-126C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\caniuse-lite\data\features\css-cascade-layers.js132869931477144568 0
-94C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\des.js\.jshintrc132869931381257375 0
-118C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\core-js\proposals\object-from-entries.js132869931533397980 0
-128C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\dom-serializer\node_modules\entities\lib\decode.js132869931395683557 0
 140C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\dom-serializer\node_modules\entities\lib\decode_codepoint.d.ts132869931422980711 0
 109C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\core-js\features\regexp\test.js132869931547162179 0
 111C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\core-js\es\array\virtual\slice.js132869931545311787 0
@@ -11929,7 +11930,7 @@
 123C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\@parcel\core\src\public\MutableBundleGraph.js132869931473763500 0
 112C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\@parcel\core\src\public\Symbols.js132869931477164521 0
 108C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\@parcel\core\lib\AssetGraph.js132869931428754728 0
-83C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\dist\worker.js.map132886122334551085 0
+83C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\dist\worker.js.map132886271448023517 0
 108C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\@parcel\core\lib\assetUtils.js132869931432474448 0
 112C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\@parcel\core\lib\CommittedAsset.js132869931442434882 0
 107C:\Users\Zx\Desktop\color_sort_solver\solution_search_web_worker\node_modules\@parcel\core\lib\constants.js132869931444115382 0
